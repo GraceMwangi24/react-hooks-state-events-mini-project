@@ -32,7 +32,7 @@ sure to use a `key` prop!
 Update the `Task` component so that it shows the task's text and category.
 
 _When the delete button is clicked_, the task should be removed from the list.
-
+t
 ### CategoryFilter
 
 Pass the list of categories to this component from `App`. Then, update this
